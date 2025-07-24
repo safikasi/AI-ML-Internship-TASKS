@@ -48,8 +48,11 @@ pip install -r requirements.txt
 ## 📚 Project Structure
 
 AI-Internship-Projects/
+
 ├── Task 1 - Iris Dataset EDA/
+
 ├── Task 2 - Tesla Stock Price Prediction/
+
 └── Task 3 - Heart Disease Prediction/
 
 ## About Me
