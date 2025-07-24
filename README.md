@@ -24,14 +24,14 @@
 
 - Developed trend-following price model
 - Processed Yahoo Finance API data
-- Achieved $X.XX RMSE accuracy
+- Achieved RMSE accuracy
 
 ### Heart Disease
 <img src="./Task%203%20-%20Heart%20Disease%20Prediction/Figure_5.png" width="400">
 
 - 85% accurate clinical predictor
 - Interpreted feature importance
-- Generated full diagnostic metrics (AUC: 0.XX)
+- Generated full diagnostic metrics 
 
 ## 🛠️ Technical Stack
 
@@ -51,3 +51,8 @@ AI-Internship-Projects/
 ├── Task 1 - Iris Dataset EDA/
 ├── Task 2 - Tesla Stock Price Prediction/
 └── Task 3 - Heart Disease Prediction/
+
+## About Me
+
+✨ **Safwan Khan Kasi**  
+*DS/ML Enthusiast | [GitHub](https://github.com/safikasi) | [LinkedIn](https://www.linkedin.com/in/safwan-kasi-2b5358292/)*
