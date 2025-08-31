@@ -22,27 +22,21 @@
 ### 🌸 Iris Dataset (EDA)  
 <img src="./Task%201%20-%20Iris%20Dataset%20EDA/Figure_1.png" width="400">  
 
-<<<<<<< HEAD
 - Classified species based on petal dimensions with near-perfect accuracy  
 - Visualized key feature distributions for all classes  
 - Detected anomalies in dataset  
-=======
 - Developed trend-following price model
 - Processed Yahoo Finance API data
 - Achieved RMSE accuracy
->>>>>>> 83c5ad3092508bcf6c7460c4726ff29833ffcd18
-
+  
 ---
 
-<<<<<<< HEAD
 ### 📈 Tesla Stock Price Prediction  
 <img src="./Task%202%20-%20Tesla%20Stock%20Price%20Prediction/Figure_1.png" width="400">  
-=======
+
 - 85% accurate clinical predictor
 - Interpreted feature importance
 - Generated full diagnostic metrics 
->>>>>>> 83c5ad3092508bcf6c7460c4726ff29833ffcd18
-
 - Built regression-based stock forecasting model  
 - Processed Yahoo Finance API stock data  
 - Achieved **RMSE: X.XX** on test data  
@@ -97,15 +91,19 @@
 AI-Internship-Projects/
 
 ├── Task 1 - Iris Dataset EDA/
-
 ├── Task 2 - Tesla Stock Price Prediction/
-<<<<<<< HEAD
 ├── Task 3 - Heart Disease Prediction/
 ├── Task 4 - News Topic Classifier (BERT)/
 ├── Task 5 - Customer Churn Prediction/
 └── Task 6 - Context-Aware Chatbot/
 
 ---
+
+## 🚀 Getting Started  
+
+git clone https://github.com/safikasi/AI-ML-Internship-TASKS.git
+
+pip install -r requirements.txt
 
 ✨ *This marks the successful completion of **2 Months Internship Projects @ DevelopersHub Corporation***  
 
@@ -117,21 +115,4 @@ DS & ML Enthusiast
 [![GitHub](https://img.shields.io/badge/GitHub-safikasi-blue?logo=github)](https://github.com/safikasi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Safwan_Kasi-blue?logo=linkedin)](https://www.linkedin.com/in/safwan-kasi-2b5358292/)
 
----
 
-## 🚀 Getting Started  
-
-```bash
-git clone https://github.com/safikasi/AI-ML-Internship-TASKS.git
-
-pip install -r requirements.txt
-
-=======
-
-└── Task 3 - Heart Disease Prediction/
-
-## About Me
-
-✨ **Safwan Khan Kasi**  
-*DS/ML Enthusiast | [GitHub](https://github.com/safikasi) | [LinkedIn](https://www.linkedin.com/in/safwan-kasi-2b5358292/)*
->>>>>>> 83c5ad3092508bcf6c7460c4726ff29833ffcd18
