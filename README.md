@@ -91,10 +91,15 @@
 AI-Internship-Projects/
 
 ├── Task 1 - Iris Dataset EDA/
+
 ├── Task 2 - Tesla Stock Price Prediction/
+
 ├── Task 3 - Heart Disease Prediction/
+
 ├── Task 4 - News Topic Classifier (BERT)/
+
 ├── Task 5 - Customer Churn Prediction/
+
 └── Task 6 - Context-Aware Chatbot/
 
 ---
@@ -105,7 +110,11 @@ git clone https://github.com/safikasi/AI-ML-Internship-TASKS.git
 
 pip install -r requirements.txt
 
+---
+
 ✨ *This marks the successful completion of **2 Months Internship Projects @ DevelopersHub Corporation***  
+
+---
 
 ## 🌐 Connect With Me
 
